@@ -1,0 +1,14 @@
+{
+  "pessoas": [
+    {"nome": "Ana", "anoNascimento": 1995, "altura": 1.65, "massa": 60},
+    {"nome": "Bruno", "anoNascimento": 1990, "altura": 1.80, "massa": 85},
+    {"nome": "Carlos", "anoNascimento": 2000, "altura": 1.75, "massa": 70},
+    {"nome": "Daniela", "anoNascimento": 1988, "altura": 1.60, "massa": 55},
+    {"nome": "Eduardo", "anoNascimento": 1992, "altura": 1.82, "massa": 90},
+    {"nome": "Fernanda", "anoNascimento": 1998, "altura": 1.70, "massa": 68},
+    {"nome": "Gabriel", "anoNascimento": 1985, "altura": 1.78, "massa": 95},
+    {"nome": "Helena", "anoNascimento": 2002, "altura": 1.62, "massa": 58},
+    {"nome": "Igor", "anoNascimento": 1997, "altura": 1.76, "massa": 80},
+    {"nome": "Juliana", "anoNascimento": 1993, "altura": 1.68, "massa": 65}
+  ]
+}
